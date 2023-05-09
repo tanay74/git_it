@@ -1,1 +1,5 @@
 phonne
+
+touchscreen 
+snapdragon gen2
+gorilla victus 2
